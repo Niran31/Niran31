@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Niranjan</h1><br><h3 align="center">B.Tech AI & DS Student | Full Stack Developer | AI & ML Enthusiast</h3><br><br>---<br><br>
+<h1 align="center">Hi 👋, I'm Niranjan</h1><br><h3 align="center">B.Tech AI & DS Student | Full Stack Developer | AI & ML Enthusiast</h3>
 
 Hi, I’m **Niranjan S** — a **B.Tech in Artificial Intelligence & Data Science** student and a **full-stack developer / AI-ML enthusiast**. I love turning ideas into working products, from polished UIs to scalable APIs and practical ML prototypes.
 
