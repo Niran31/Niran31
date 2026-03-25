@@ -1,15 +1,39 @@
 # 💫 About Me:
-<h1 align="center">Hi 👋, I'm Niranjan</h1><br><h3 align="center">B.Tech AI & DS Student | Full Stack Developer | AI & ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Niranjan</h1>
+<h3 align="center">AI & Full Stack Developer | MERN | Generative AI | LLM Engineer</h3>
 
-Hi, I’m **Niranjan S** — a **B.Tech in Artificial Intelligence & Data Science** student and a **full-stack developer / AI-ML enthusiast**. I love turning ideas into working products, from polished UIs to scalable APIs and practical ML prototypes.
+Hi, I’m **Niranjan S** — an **AI & Full-Stack Developer** passionate about building intelligent, real-world applications using **Machine Learning, LLMs, and scalable web technologies**.
 
-- 🔭 **Building:** SkillSwap (skill exchange platform), Casagenix (real-estate app), and a News Headlines app with API integration.
-- 💻 **I work with:** JavaScript/TypeScript, **React + Tailwind**, **Node.js/Express**, **MongoDB/MySQL**, **Python** (Pandas, scikit-learn), **Android (Kotlin)**, Docker, Git/GitHub Actions, and basics of **AWS/GCP**.
-- 🧠 **Interests:** MERN stack, Generative AI/LLMs, and shipping fast, clean experiences.
-- 🌱 **Learning now:** Advanced MERN patterns, DevOps basics (CI/CD, Docker), and cloud deployment.
-- 🤝 **Open to:** Internships, collabs, and freelance work in full-stack or beginner-friendly AI projects.
-- 📫 **Reach me:** [niranjannivash0@gmail.com](mailto:niranjannivash0@gmail.com) · [LinkedIn](https://www.linkedin.com/in/niranjan-s-b7390a26b)
+I specialize in **AI-powered systems, chatbot development, and automation tools**, and I enjoy transforming ideas into impactful products.
 
+---
+
+## 🚀 What I'm Doing
+- 🔭 Currently working on **AI-driven systems & automation tools**
+- 🤖 Building **LLM-based chatbots & AI agents** (MyBotify, EventJar)
+- 🌐 Developing full-stack apps using **MERN stack**
+- 🧠 Exploring **Generative AI, Prompt Engineering & AI workflows**
+
+---
+
+## 💼 Experience
+
+### 🧠 AI Intern — Humbletree Cloud Pvt Ltd *(Dec 2025 – Present)*
+- Built **LLM-powered chatbot & marketing automation systems**
+- Worked on **MyBotify & EventJar**
+- Designed **prompt engineering pipelines**
+- Developed **AI agents & backend integrations**
+
+### 💻 Web Developer Intern — Casagenix Pvt Ltd *(Feb 2025 – Jun 2025)*
+- Built responsive **React.js applications**
+- Integrated **REST APIs & third-party services**
+- Improved UI performance (⬇️ bounce rate by 20%)
+- Deployment using **Netlify & Vercel**
+
+### 🤖 AI Intern — OdugaaTech Pvt Ltd *(July 2025)*
+- Worked on **ML workflows & real-world AI applications**
+
+📫 **Reach me:** [niranjannivash0@gmail.com](mailto:niranjannivash0@gmail.com) · [LinkedIn](https://www.linkedin.com/in/niranjan-s-b7390a26b)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/niranjan-s-b7390a26b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niranjannivash0@gmail.com) 
